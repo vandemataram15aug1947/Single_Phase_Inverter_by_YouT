@@ -1,3 +1,10 @@
+/*
+ * Single_Phase_Inverter_by_YouT.c
+ *
+ Created on: 10 Nov 2024
+ *      Author: Vande
+ */
+
 #include "Peripheral_Setup.h"
 #include "math.h"
 

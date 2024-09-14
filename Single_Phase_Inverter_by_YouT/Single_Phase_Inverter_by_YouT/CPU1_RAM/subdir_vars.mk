@@ -10,7 +10,7 @@ C:/ti/C2000Ware_5_01_00_00/device_support/f2837xd/common/cmd/2837xD_RAM_lnk_cpu1
 ../F2837xD_Headers_nonBIOS_cpu1.cmd 
 
 LIB_SRCS += \
-C:/ti/C2000Ware_5_01_00_00/driverlib/f2837xd/driverlib/ccs/Debug/driverlib.lib 
+C:/ti/ccs1280/ccs/eclipse/COM_TI_C2000WARE_SOFTWARE_PACKAGE_INSTALL_DIR/driverlib/f2837xd/driverlib/ccs/Debug/driverlib.lib 
 
 ASM_SRCS += \
 ../F2837xD_CodeStartBranch.asm \

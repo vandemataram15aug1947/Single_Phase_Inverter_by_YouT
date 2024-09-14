@@ -1,8 +1,8 @@
 /*
  * Peripheral_Setup.h
  *
- *  Created on: 23 de jul de 2020
- *      Author: waner
+ Created on: 10 Nov 2024
+ *      Author: Vande
  */
 
 #ifndef PERIPHERAL_SETUP_H_
